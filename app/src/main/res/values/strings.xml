@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseTest1</string>
+    <string name="title_activity_root">Depth Demo</string>
+</resources>

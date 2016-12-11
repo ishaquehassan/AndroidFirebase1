@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "419911973944",
+    "firebase_url": "https://nth-victory-114106.firebaseio.com",
+    "project_id": "nth-victory-114106",
+    "storage_bucket": "nth-victory-114106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419911973944:android:4552e2798f4697aa",
+        "android_client_info": {
+          "package_name": "com.ca.firebasetest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419911973944-im8sthpu9s6dq88agf8rkr9ioh335600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgj_xLm294B8SqaPPCSquURxV2aYRVC8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
